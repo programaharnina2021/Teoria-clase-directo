@@ -8,4 +8,9 @@
 		<item key="moveWizard.updateQualifiedNames" value="false"/>
 		<item key="patterns" value="*"/>
 	</section>
+	<section name="ExtractTempWizard">
+		<item key="declareFinal" value="false"/>
+		<item key="declarevariableTypeVar" value="false"/>
+		<item key="replaceOccurrences" value="true"/>
+	</section>
 </section>
