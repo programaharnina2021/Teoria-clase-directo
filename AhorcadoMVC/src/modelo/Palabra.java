@@ -1,6 +1,6 @@
 package modelo;
 
-import utiles.Utiles;
+import control.Utiles;
 
 public class Palabra {
 	private char[] cadena;

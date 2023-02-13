@@ -1,4 +1,4 @@
-package utiles;
+package control;
 
 import java.util.Scanner;
 
